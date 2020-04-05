@@ -1,4 +1,4 @@
-# Casket ![Python Version](https://img.shields.io/badge/Python-3.8-orange.svg) ![Electron Version](https://img.shields.io/badge/Electron-8.0.3-blue.svg)
+# Casket ![Python Version](https://img.shields.io/badge/Python-3.8-orange.svg) ![Electron Version](https://img.shields.io/badge/Electron-8-blue.svg)
 
 ## Introduction
 
@@ -10,9 +10,10 @@ Clone the repository:
 
     $ git clone https://github.com/jasoc/casket
 
- and run:
+ and from application's directory run:
 
-    $
+    $ npm install
+    $ npm start
 
 ### Prerequisites
 
