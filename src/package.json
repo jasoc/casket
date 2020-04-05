@@ -1,24 +1,12 @@
 {
   "name": "Casket",
-  "version": "b",
+  "version": "0.0.1",
   "description": "A minimal Electron and Python based password manager.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": "https://github.com/jasoc/casket",
-  "keywords": [
-    "Electron",
-    "Python",
-    "casket"
-  ],
-  "author": "",
-  "license": "GPLv3",
-  "dependencies": {
-    "pycasket": "https://github.com/jasoc/python-casket"
-  },
-  "devDependencies": {
-    "electron": "^1.7.6",
-    "electron-packager": "^9.0.1"
-  }
+  "author": "Jasoc",
+  "license": "GPLv3"
 }
